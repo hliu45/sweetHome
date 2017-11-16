@@ -1,6 +1,6 @@
 # Home Sweet Home
 
-![Home Sweet Home](https://github.com/hliu45/sweetHome/blob/master/CIMG2440.JPG)
+![Home Sweet Home](https://github.com/hliu45/sweetHome/blob/master/CIMG2440.JPG){:height="700px" width="400px"}
 
 Sally's house is located in Milpitas, CA near highway 237 and 880. It's in a quiet and safe community. It's a homestay with total 8 rooms and a beautiful garden. Besides landlady and her husband and grandma, you have other four roommates(mostly SJSU students, 2 from Korea, 1 from China, 1 from Malaysia).
 
