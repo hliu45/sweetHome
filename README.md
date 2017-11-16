@@ -19,8 +19,8 @@ Rent is $1000/mo and it covers almost everything (Meals, utilities, internet, ai
 
 It's is about 15-20mins walk from Great Mall/bus stop and is near Safeway and Ranch 99. There are also many restaurant nearby. The food the homestay provided range from Asian style (Fillipino food, Vietname food, Chinese food), Mexican food, traditional American food. There usually have fruits and dessert served after the dinner.
 
-# It provides variety of food
-<img src="https://github.com/hliu45/sweetHome/blob/master/f1.jpg" width="30%">
+## food gallery
+<img src="https://github.com/hliu45/sweetHome/blob/master/f1.jpg" style="float:right;width:42px;height:42px;>
 <img src="https://github.com/hliu45/sweetHome/blob/master/f2.jpg" width="30%">
 <img src="https://github.com/hliu45/sweetHome/blob/master/f3.jpg" width="30%">
 <img src="https://github.com/hliu45/sweetHome/blob/master/f4.jpg" width="30%">
