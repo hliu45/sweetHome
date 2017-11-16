@@ -8,11 +8,11 @@ Sally's house is located in Milpitas, CA near highway 237 and 880. It's in a qui
 
 Rent is $1000/mo and it covers almost everything (Meals, utilities, internet, air conditioner). You can join dinner with other family member and roommates. You still can cook for yourself, but you have to clean the kitchen yourself after using it. Breakfast is self-serve, and you will wash the dishes after the regular scheduled dinner. Just bring the plate to the kitchen. The landlady will clean the house on regular basis. So it mostly remain clean and orderd. Besides the room of your own, you have shared bathroom, living room and kitchen with other roommates. You are welcme to use the kitchen appliance. It usually provides milk and orange juice all year around. You can watch movies(Netflix) in the living rooms. You also have a TV in your room and all the furnitures are also included. 
 
-![home3](https://github.com/hliu45/sweetHome/blob/master/r1.jpg)
-![](https://github.com/hliu45/sweetHome/blob/master/r2.jpg | width=100)
-![home5](https://github.com/hliu45/sweetHome/blob/master/r3.jpg | width=100)
-![home6](https://github.com/hliu45/sweetHome/blob/master/r4.jpg | width=100)
-![home7](https://github.com/hliu45/sweetHome/blob/master/r5.jpg | width=100)
+![home3](https://github.com/hliu45/sweetHome/blob/master/r1.jpg) <!-- .element height="50%" width="50%" --> 
+![home4](https://github.com/hliu45/sweetHome/blob/master/r2.jpg) <!-- .element height="50%" width="50%" -->
+![home5](https://github.com/hliu45/sweetHome/blob/master/r3.jpg) <!-- .element height="50%" width="50%" -->
+![home6](https://github.com/hliu45/sweetHome/blob/master/r4.jpg)
+![home7](https://github.com/hliu45/sweetHome/blob/master/r5.jpg)
 
 It's is about 15-20mins walk from Great Mall/bus stop and is near Safeway and Ranch 99. There are also many restaurant nearby. The food the homestay provided range from Asian style (Fillipino food, Vietname food, Chinese food), Mexican food, traditional American food. There usually have fruits and dessert served after the dinner.
 
