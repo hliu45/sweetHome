@@ -21,7 +21,7 @@ It's is about 15-20mins walk from Great Mall/bus stop and is near Safeway and Ra
 
 ## food gallery
 <img src="https://github.com/hliu45/sweetHome/blob/master/f1.jpg" width="30%" style="float:right">
-<img src="https://github.com/hliu45/sweetHome/blob/master/f2.jpg" width="30%">
+<img src="https://github.com/hliu45/sweetHome/blob/master/f2.jpg" width="30%" style="float:right">
 <img src="https://github.com/hliu45/sweetHome/blob/master/f3.jpg" width="30%">
 <img src="https://github.com/hliu45/sweetHome/blob/master/f4.jpg" width="30%">
 <img src="https://github.com/hliu45/sweetHome/blob/master/f5.jpg" width="30%">
