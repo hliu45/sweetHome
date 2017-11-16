@@ -19,6 +19,7 @@ Thank you.
 <img src="https://github.com/hliu45/sweetHome/blob/master/r4.png" width="60%">
 <img src="https://github.com/hliu45/sweetHome/blob/master/r5.png" width="60%">
 <img src="https://github.com/hliu45/sweetHome/blob/master/p6.jpg" width="60%">
+<img src="https://github.com/hliu45/sweetHome/blob/master/p8.jpg" width="60%">
 <img src="https://github.com/hliu45/sweetHome/blob/master/p7.jpg" width="40%" heighth="60%">
 
 ### food gallery
